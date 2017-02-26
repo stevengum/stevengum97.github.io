@@ -1,0 +1,14 @@
+#iframe_wrapper {
+    margin:auto;
+    text-align:center;
+}
+.heading{
+    text-align: center;
+    margin: auto;
+}
+#quickchatbot {
+    margin: 10px;
+    height:480px;
+    width:402px;
+    align:middle;
+}
