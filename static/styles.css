@@ -5,10 +5,10 @@
 .heading{
     text-align: center;
     margin: auto;
+    padding-bottom: 20px;
 }
-#quickchatbot {
-    margin: 10px;
-    height:480px;
-    width:402px;
-    align:middle;
+
+#demofeaturebot {
+  height: 60vh;
+  width: 40vh;
 }
