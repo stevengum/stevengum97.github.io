@@ -1,4 +1,6 @@
 #iframe_wrapper {
+    min-height: 600px;
+    min-width: 400px;
     margin:auto;
     text-align:center;
 }
@@ -11,6 +13,4 @@
 #demofeaturebot {
   height: 60vh;
   width: 40vh;
-  min-height: 600px;
-  min-width: 400px;
 }
